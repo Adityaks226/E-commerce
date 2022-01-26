@@ -1,0 +1,14 @@
+.authForm {
+  margin: 10% 33%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  background-color: rgba(253, 253, 253, 0.85);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.login-form {
+  width: 80%;
+  max-width: 90%;
+  margin: auto;
+  display: block;
+}
